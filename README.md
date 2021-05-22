@@ -34,3 +34,11 @@ Content from course - https://www.udemy.com/share/101Xs6AEoacllQRnQ=/
 * Now the marine movement direction input from WASD drives the animation states
 
 * Added mouse aiming
+
+* Added gamepad aiming
+
+* Added gamepad movement
+
+* Added aim smoothing
+
+* Added input switching
