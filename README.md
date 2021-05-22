@@ -32,3 +32,5 @@ Content from course - https://www.udemy.com/share/101Xs6AEoacllQRnQ=/
 ![image_4](images/image_4.png)
 
 * Now the marine movement direction input from WASD drives the animation states
+
+* Added mouse aiming
