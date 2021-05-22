@@ -42,3 +42,7 @@ Content from course - https://www.udemy.com/share/101Xs6AEoacllQRnQ=/
 * Added aim smoothing
 
 * Added input switching
+
+* Organized `Content\Blueprints\Pawns\BP_Marine.uasset` character event graph, functions, and vars.
+
+![image_5](images/image_5.png)
