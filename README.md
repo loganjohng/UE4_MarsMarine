@@ -3,7 +3,7 @@ Content from course - https://www.udemy.com/share/101Xs6AEoacllQRnQ=/
 
 ![image_1](images/image_1.png)
 
-##Change Log##
+## Change Log
 
 * Added `Content\Blueprints\Pawns\BP_Marine.uasset` BP Class (Character Pawn)
 
