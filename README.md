@@ -57,10 +57,10 @@ Content from course - https://www.udemy.com/share/101Xs6AEoacllQRnQ=/
 
 * Added weapon fire functions to the event graph to handle activating the muzzle flash and weapon sounds when the mouse is clicked or game pad trigger is used.
 
-![image_8](images/image_8.png)
-
 * The `Start Firing Weapon` function activates the particle system and plays a 2d sound.
 
-![image_9](images/image_9.png)
+![image_8](images/image_8.png)
 
 * The `Stop Firing Weapon` function deactivates the muzzle flash and stops the sound. An end shot sound cue plays to hide the abrupt stopping of the sound.
+
+![image_9](images/image_9.png)
