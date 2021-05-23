@@ -46,3 +46,21 @@ Content from course - https://www.udemy.com/share/101Xs6AEoacllQRnQ=/
 * Organized `Content\Blueprints\Pawns\BP_Marine.uasset` character event graph, functions, and vars.
 
 ![image_5](images/image_5.png)
+
+* Added a skeletal mesh component as a child of the `Content\Blueprints\Pawns\BP_Marine.uasset` mesh component and attached to the `WeasponPoint` socket.
+
+![image_6](images/image_6.png)
+
+* Added a Particle System component as a child of Rifle and attached to the `MuzzleFlashSocket` socket for the barrel flash.
+
+![image_7](images/image_7.png)
+
+* Added weapon fire functions to the event graph to handle activating the muzzle flash and weapon sounds when the mouse is clicked or game pad trigger is used.
+
+![image_8](images/image_8.png)
+
+* The `Start Firing Weapon` function activates the particle system and plays a 2d sound.
+
+![image_9](images/image_9.png)
+
+* The `Stop Firing Weapon` function deactivates the muzzle flash and stops the sound. An end shot sound cue plays to hide the abrupt stopping of the sound.
