@@ -1,7 +1,7 @@
 # UE4_MarsMarine
 Content from course - https://www.udemy.com/share/101Xs6AEoacllQRnQ=/
 
-![image_1](images/image_1.png)
+![image_1](images/image_1.gif)
 
 ## Change Log
 
