@@ -64,3 +64,11 @@ Content from course - https://www.udemy.com/share/101Xs6AEoacllQRnQ=/
 * The `Stop Firing Weapon` function deactivates the muzzle flash and stops the sound. An end shot sound cue plays to hide the abrupt stopping of the sound.
 
 ![image_9](images/image_9.png)
+
+* Added a BP_Marine Player HUD
+
+![image_10](images/image_10.png)
+
+* Added bindings for player kills and player health
+
+![image_11](images/image_11.png)
