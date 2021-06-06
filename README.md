@@ -72,3 +72,13 @@ Content from course - https://www.udemy.com/share/101Xs6AEoacllQRnQ=/
 * Added bindings for player kills and player health
 
 ![image_11](images/image_11.png)
+
+* Added alien damage and death animation
+
+* Added enemy waves
+
+* Added player respawn
+
+* Added particle impact effects
+
+* Added tracer fire with a Niagra Particle System [video tutorial](https://www.youtube.com/watch?v=KDTVLMEcLjE)
